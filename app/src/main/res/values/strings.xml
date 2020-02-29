@@ -1,0 +1,460 @@
+<resources>
+    <string name="app_name">My college</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Logout</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_syllabus">Syllabus</string>
+    <string name="menu_about">About</string>
+    <string name="menu_courses">Courses</string>
+    <string name="menu_department">Department</string>
+    <string name="menu_academic">Academic</string>
+    <string name="menu_iqac">IQAC</string>
+    <string name="menu_gymkhana">Gymkhana</string>
+    <string name="menu_alumni">Alumni</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_contact_us">Contact us</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_developers">feedback to developer </string>
+
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">College Dashboard</string>
+    <string name="title_achivements">Achievements</string>
+    <string name="title_updates">Updates</string>
+
+
+    <string name="college_name">Basaveshwar Science College Bagalkot</string>
+    <string name="about1">About BVVS Sanga\'s</string>
+    <string name="about2">About College</string>
+    <string name="courses1">UG Programs</string>
+    <string name="courses2">PG Programs</string>
+    <string name="courses3">Ph.D Programs</string>
+    <string name="courses4">Diploma</string>
+    <string name="courses5">Certificate Courses</string>
+    <string name="department1">PG Department</string>
+    <string name="department2">UG Department</string>
+    <string name="academic1">Eximanition</string>
+    <string name="academic2">Remedial Committee</string>
+    <string name="academic3">Library</string>
+    <string name="academic4">Anti-Ragging</string>
+    <string name="academic5">Grievance cell</string>
+    <string name="academic6">Attendance</string>
+    <string name="iqac1">IQAC Message</string>
+    <string name="iqac2">Principal Letter</string>
+    <string name="iqac3">IQAC-members</string>
+    <string name="iqac4">CPE</string>
+    <string name="gymkhana1">Women Empoverment cell</string>
+    <string name="gymkhana2">Sports</string>
+    <string name="gymkhana3">NCC</string>
+    <string name="gymkhana4">NSS</string>
+    <string name="gymkhana5">Science Asociation</string>
+    <string name="gymkhana6">Culture Activities</string>
+    <string name="gymkhana7">Career Guidance and Placement cell</string>
+    <string name="gymkhana8">BVVS Natural club</string>
+    <string name="syllabus1">BCA</string>
+    <string name="syllabus2">B.Sc</string>
+    <string name="sem1">Semister I</string>
+    <string name="sem2">Semister II</string>
+    <string name="sem3">Semister III</string>
+    <string name="sem4">Semister IV</string>
+    <string name="sem5">Semister V</string>
+    <string name="sem6">Semister VI</string>
+    <string name="optsem1">B.Sc Statistics</string>
+    <string name="optsem2">B,sc Sugar Science and Technology</string>
+    <string name="optsem3">B.sc IV Computer Application</string>
+    <string name="optsem4">IV Sem Kannada</string>
+    <string name="optsem5">personality and communication skill</string>
+    <string name="optsem6">III Sem Statisics (Optional)</string>
+    <string name="optsem7">Indian Constitution</string>
+    <string name="optsem9">V Sem Zoology (Optional) </string>
+    <string name="ugprogram1">BSc (Physics, Chemistry,Mathematics)</string>
+    <string name="ugprogram2">BSc (Chemistry,Botany,Zoology)</string>
+    <string name="ugprogram3">BSc (Physics, Statistics,Mathematics)</string>
+    <string name="ugprogram4">BSc (Physics,Mathematics,Electronics)</string>
+    <string name="ugprogram5">BSc (Physics,Mathematics,CS)</string>
+    <string name="ugprogram6">BSc (Chemistry, Botany, Biotechnology)</string>
+    <string name="ugprogram7">BSc (Microbiology, Chemistry,Zoology)</string>
+    <string name="ugprogram8">BSc (CS, Mathematics,Electronics)</string>
+    <string name="ugprogram9">BSc (CS,Mathematics, Statistics)</string>
+    <string name="ugprogram10">BCA (Computer Application)</string>
+    <string name="ugprogram11">BSc (Computer Science)</string>
+    <string name="pgprogram1">PGDCA(PG Diploma)</string>
+    <string name="pgprograms2">M.sc Mathematics</string>
+    <string name="pgprograms3">M.sc Chemistry</string>
+    <string name="pgprograms4">M.sc Physics</string>
+    <string name="pgprograms5">M.sc Computer Science</string>
+    <string name="diploma1">DMLTC</string>
+    <string name="phdprograms1">Ph.D(Physics)</string>
+    <string name="cc1">Computer Literary Program</string>
+    <string name="cc2">NPTEL</string>
+    <string name="cc3">Spoken English</string>
+    <string name="cc4">Human Values</string>
+    <string name="cc5">Yoga</string>
+    <string name="ugd1">Physics</string>
+    <string name="ugd2">Chemistry</string>
+    <string name="ugd3">Mathematics</string>
+    <string name="ugd4">Botany</string>
+    <string name="ugd5">Zoology</string>
+    <string name="ugd6">Statistics</string>
+    <string name="ugd7">Computer Science</string>
+    <string name="ugd8">Electronics</string>
+    <string name="ugd9">Microbiology</string>
+    <string name="ugd10">Biotechnology</string>
+    <string name="ugd11">Languages</string>
+    <string name="members">Members</string>
+    <string name="staff">Staff List</string>
+    <string name="staff_list">Staff List</string>
+    <string name="staff_note">* Click on the lectuere names to write a email or to communicate with them</string>
+
+
+    <string name="Home_about">
+        The Basaveshwar Science College is one of the prestigious institutes of Basaveshwar Veerashaiva Vidyavardhaka Sangha,
+        Bagalkot which was founded by His Holiness Shri Gurubasava Mahaswamiji of Bilur in the year 1906, with the opening of a Sanskrit Patashala.\n\n
+        It provided the impetus that propelled a sleepy little town into an Educational, Commercial and Industrial hub of this backward area of
+        Karnataka state.\n "
+    </string>
+    <string name="home_mission">
+        Basaveshwar Science College aims at imparting quality education to develop Self-Reliant and Responsible citizens.
+        It is committed to provide the best learning and working environment in the fields of Science and Information Technology to cater the needs of
+        all stakeholders to achieve excellence. The college is committed to achieve the overall development of the students and to improve
+        career guidance. Social service and Rural development are also embedded in social activities.\n
+     </string>
+    <string name="home_orgin">Runs under the patronage of B.V.V Sangha, the college assumed its distinctive individuality in 1967, when it separated
+        itself from Basaveshwar Arts College. From 1944 to 1967 it was a part of the Composite Science College along with the Pre-University Science
+        course. During this period it was set on the path of development under the able guidance of a distinguished acadamecian Dr. S.C. Nandimath, a
+        post-graduate and research awardee from London University.
+        With its inaugural in 1967 by then Vice President of India, His Excellency Sri V. V. Giri, the administration was taken over by the founder
+        Principal, Prof. B.C. Akki, who continued on the path of excellence charted by Dr. S.C. Nandimath. Basaveshwar Science College has adopted
+        modern academic curriculum as per the requirements of the under-graduate and post graduate streams. Inputs from various resources regarding
+        knowledge and training for employment has resulted into a modified positive study programme, updated to aid employment.\n
+    </string>
+    <string name="core_values">
+        1) Leadership.\n\n
+        2) Critical thinking and problem solving.\n\n
+        3) Encouraging and building student ability, character and creativity.\n\n
+        4) Ethics: We believe in acting with honesty, courage, and trustworthiness\n\n
+        5) We value an institutional attitude and culture that promotes and supports total health and wellness of staff and students.\n\n
+        6) Excellence: Maintain a high standard of integrity and performance leading to the achievement of academic and professional goals.\n\n
+    </string>
+    <string name="about_bvvs">
+        The Basaveshwar Science College is one of the prestigious institutes of Basaveshwar Veerashaiva Vidyavardhaka Sangha, Bagalkot which was founded by His Holiness Shri Gurubasava
+        Mahaswamiji of Bilur in the year 1906, with the opening of a Sanskrit Patashala.
+            It provided the impetus that propelled a sleepy little town into an Educational, Commercial and Industrial hub of this backward area of Karnataka state. Today the Sangha has been
+        running 106 educational institutions and imparting quality education from K.G. to P.G. and even PhD programme in many disciplines. The B.V.V. Sangha’s Higher education spectrum covers
+        fields like Arts, Commerce, Science, Engineering, Law, Pharmacy, Dental, Medical etc. The clarity of vision, untiring efforts coupled with commitment to the society at large of Founder
+        and the subsequent leaders of BVV Sangha has gone a long way in shaping the destiny of millions of people of north part of Karnataka over a century. Shri. Dr. Veeranna Charantimath, a
+        dynamic person with a vision is the Chairman of B.V.V. Sangha. He has given new dimensions to B.V.V. Sangha with a great care for quality of educational institutions in a span of 15 years
+        he doubled the number of educational institutions. His strong belief is “the spread of education naturally works on social, economic, health front of the people of this area”.
+        Sangha has celebrated its centenary year in 2006.
+        The Basaveshwar Science College has its origin in Basaveshwar College, Bagalkot was the first college established before independence in 1944 by B.V.V. Sangha, with a social commitment to impart
+        quality higher education.
+        In the year 1945 Science section was started, and was bifurcated from Basaveshwar Arts College in 1967 as an independent Science College with a separate building inaugurated by his
+        Excellency Sri V. V. Giri by then Vice President of India. Prof. B.C.Akki continued the path of excellence as its Principal.\n "
+    </string>
+    <string name="about_college">
+        The Basaveshwar Science College has its origin in Basaveshwar College, Bagalkot was the first college established before independence in 1944 by BVV Sangha, with
+        a social commitment to impart quality higher education. In the year 1945 Science section was started, and was bifurcated from Basaveshwar College in 1967 as an independent Science College
+        with a separate building inaugurated by his Excellency Sri V.V.Giri then Vice-President of India. Prof. B.C.Akki continued the path of excellence as its Principal.\n\n  The Basaveshwar
+        Science College is recognised by UGC under 2 (f) and 12 (B) of the UGC Act of 1956 and affiliated to Rani Channamma University, Belagavi. Recently our college is recognised as a College
+        with Potential for Excellence by UGC. The College has grown into premier higher education institution in the state during the past six decades. It is the only independent Science college
+        in Bagalkot and Bijapur districts, it is catering to the needs of Higher education in pure science, applied sciences and information technology in this economically and educationally
+        backward area of Karnataka.The college is Re-accredited at A grade by NAAC in Aug.2012.\n\n  At present the college offers 03 UG programmes (one aided and two self financed), 01 PGDCA, 04
+        PG programmes (self financed), Computer Science, Maths, Physics and Chemistry. The college has developed good academic infrastructure and has explored with time the technology benefits
+        in learning-teaching process. The vision, mission and objectives of the institution are in tune with changing scenario of higher education in the country. Dr. C.V. Raman and
+        Dr. Rajaramanna are amongst hundreds of distinguished personalities who have visited our college.\n
+    </string>
+    <string name="eximanition">
+        \n\nExamination committee is formed  at the beginning of every academic year. The Chairman of examination committee  looks on all the matters related to proper and
+        timely conduct of the exams and also carrying out the transparent evaluation process. The committee has to ensure that for each exam/internal test to be  conducted  should adhere to all
+        the following rules.\n\n
+        Date  time and syllabus for the exam/test should be announced 15 days prior to the conduct of exam\n\n
+        The question paper pattern and syllabus for IA has to be shared with students to make sure that they are given optimal time for preparation.\n\n
+        The concerned faculty is asked to submit 2 sets of question papers to the committee and the committee also internally ensures proper distribution of the questions and selects 1 out of
+        2 sets and finalizes it for the IA.\n\n
+        Once the examinations are conducted, the answer scripts of students are evaluated by faculty members. During evaluation process teachers maintain impartiality and fairness. They ensure
+        that they mark each student equally and maintain a code of sincerity and justice. The results are duly intimated to the students within 7 to 10 days after completion of the examination.\n
+    </string>
+    <string name="exi_members">
+        \n\nSri. R. L. Kataraki\n
+        Smt. R. I. Soudagar\n
+        Smt. V. V. Wali\n
+        Sri. P. S. Channappagol\n
+        Sri. V. R. Paraddi\n
+        Sri. Kartik Desai\n
+        Sri. Prashantha Kamane\n
+        Miss. Rukmini Shirabur\n
+        Sri. Gurumurtayya Puranik\n
+    </string>
+    <string name="remedical_com">
+        \nThe aim of remedial class is to provide learning support to students who lag far behind their counterparts in academic performance. Remedial classes are supposed to improve students
+        and given to students who are not prepared for regular work. We prepare separate syllabus, time-table and attendance for remedial classes also conducts two tests for them during the
+        classes.\n\n
+    </string>
+    <string name="remedical_members">
+        \n\nSmt. S. R. Deshpande,Chairperson\n
+        G. G. Hiremath\n
+        Tulasi P. Chavan\n
+        Ramesh Anawal\n
+        Laxmi Anklagi\n"
+    </string>
+    <string name="lib_about">
+        \nThe Basaveshwar Science College Library became independent during 1967,with 2,200 volumes which is situated in independent building having the total area of 4,200 sqft. out of which
+        about 1,000 sq.ft. area is consumed by book shelves, about 2,400 sq.ft. area occupiedby reading space and can accommodate 150 students at a time. About 200 sq.ft. area is being utilized
+        foradministrative and operations of the library. Now the library collection is more than 61,712 volumes with19,721 unique titles worth of Rs. 1,12,85,164.\n
+    </string>
+    <string name="lib_section">
+        \n\nAcquisition Section\n
+        Circulation Section\n
+        Library Stacks\n
+        Periodical Section\n
+        Reference Section\n
+        Digital Library\n
+        INFLIBNET (N-List)\n
+        Student Reading Room\n
+        OPAC\n
+    </string>
+    <string name="lib_rules">\n\n
+        • The college library kept open from 9am to 6pm.\n\n
+        • Books for “Reference” and periodical should be consulted in the library.\n\n
+        • Students should examine the books carefully at the borrowing.\n\n
+        • Books are to be used carefully, marking, underlining the sentences and tearing of pages is strictly prohibited.\n\n
+        • Every student must possess the library identity card at the time of transaction.\n\n
+        • Identity cards are not transferable from one person to another.\n\n
+        • Conversion, making noise and chewing pan and gutkha are strictly prohibited.\n\n
+        • Students have to maintain peace and cleanliness in the premises of the library.\n\n
+    </string>
+    <string name="lib_committee">
+        \n\n1	Dr. T. M. Girish	(Computer Science)\n
+        2	Sri. Santosh H. Gorawar	(Librarian)\n
+        3	Smt. S. R. Kaladagi	(Chemistry)\n
+        4	Dr. Vinayak S. Hegde	(Chemistry (PG))\n
+        5	Smt. Trupti N. S.	(Computer Science)\n
+        6	Mr. Chidanand Badiger	(Mathamatics (PG) )\n
+        7	Miss. Soubhagya Badanur	(Physics (PG))\n
+    </string>
+    <string name="ragging_members">
+        \n\n1.Dr. S. R. Kandgal(Chairman)\n
+        2. Dr. B. N. Kirsur(Member)\n
+        3. All HOD’s(Member)\n\n
+    </string>
+    <string name="about_grievance">
+        \nThe main objective of the Students Counseling and Grievance Redressal Cell is to develop a responsible and positive attitude among students in order to maintain a harmonious
+        educational atmosphere in Basaveshwar Science College Campus. The main function of the cell is to look into the complaints lodged by students on various issues, and judge it based on
+        various merits. The Grievance cell is also empowered to look into matters of harassment. Anyone with a genuine grievance may approach the department members in person, or in consultation
+        with the officer in-charge Students’ Grievance Cell. In case the person is unwilling to appear in self, grievances may be dropped in writing at the suggestion box of the Grievance Cell at
+        Administrative Block. Grievances may also be sent through e-mail to the officer in-charge of Students’ Grievance Cell.\nStudents are requested to note that making a complaint is serious
+        and therefore they are to use this power in a responsible manner. At the same time, the college assures students that once a complaint is made, it will be treated with sensitivity and
+        confidentiality.\n
+    </string>
+    <string name="grievance_members">
+        \n\nSri. S. A. Bhusanurmath Student Welfare Officer and Chairman of Grievance Cell\n\n
+        Dr. B. N. Kirasur\n
+        Sri. S. B. Goudar\n
+        Dr. D. S. Lamani\n
+        Smt. J. B. Uppin\n
+        Smt. Nirmal Telkar\n
+        Smt. R.I. Saudagar\n
+        Miss. NetravatiHireholi\n
+    </string>
+    <string name="about_att">
+        \n\nStudent attendance deals with the maintenance of the student’s attendance details. It generates the attendance of the student on basis of presence in class. It
+        is maintained on the daily basis of their attendance. The staffs handling the particular subjects responsible to make the attendance for all students. Only if the student present on that
+        particular period, then the attendance will be calculated.\n
+    </string>
+    <string name="att_members">
+        \n\nSmt. S. R. Sabarad Chairperson\n\n
+        V.N. Vanakudare\n
+        Prakash Aratal\n
+        Roopa Mudenur\n
+        Kartik Desai\n
+        Girish K\n"
+    </string>
+    <string name="iqac_message">
+        \nThe Internal Quality Assurance Cell (IQAC) monitors the quality parameters in Basaveshwar Science College and ensures that the standards of excellence
+        reflected in the vision and mission of the college are met and sustained.\n    Internal Quality Assurance System is a step towards Excellence. The college established the Internal Quality
+        Assurance Cell (IQAC) in the year 2001.The IQAC being an integral part of the college works towards realizing the goals of quality enhancement by developing a system for conscious,
+        consistent and catalytic improvement in several aspects  of functioning of  the  college.\n\n
+        The IQAC assures the stakeholders i.e., students, parents, teachers, staff, Management, Alumni  funding agencies and society in general , about  the accountability and transparency in the
+        quality management system of the institution and its concern for ensuring quality of education being imparted.\n\n
+        The aim of IQAC is to arrange numerous  training programs for faculty, administrative staff and students. It conducts staff assessment to offer valuable feedback for quality sustenance and
+        improvement in teaching, learning process in the college. The documentation of  various activities of the college has been made by the IQAC for needs of  higher education requirements.
+        The continuous follow up has been made  on infrastructural resources of the college to assure adequate, suitable and better facilities to  enable ambiance for teaching, learning  and
+        research. Grant of Rs 300,000/- has been received from  UGC  for establishment and infrastructure development of IQAC.\n\n
+    </string>
+    <string name="iqac_members">
+        \n\n\n1.Sri. B. C. Indi, Member, IQAC Honourable Member,\n\n
+        2.Sri. N. G. Karur,Administrative Officer,\n\n
+        3.Smt. Dr. Meena Chandawarkar,Chief Advisor,\n\n
+        4.Sri. V. K. Morabad,Coordinator, Higher Education,\n\n
+        5.Dr. S. R. Kandagal,Principal,\n\n
+        6.Dr.B.N.KirasurCoordinator\n\n
+        7.Smt. S.G.HunasikaiMember\n\n
+        8.Dr.(Smt)R.S.MathadMember\n\n
+        9.Smt. P.B.RudraxiMember\n\n
+        10.Smt. V.N. VanakudareMember\n\n
+        11.Smt. S. R. KaladagiMember\n\n
+        12.Dr. M. S. BisnalMember\n\n
+        13.Smt. S.R.DeshpandeMember\n\n
+        14.Ms.Rekha HiremathStudent representative\n\n
+        15.Mr.Naveen Hugar Student representative\n
+    </string>
+    <string name="cpe">\nIn 2011 college conferred the status of college with potential for excellence(CPE)\n\n Phase-1. Under this scheme, college received Rs 1crore in different intervals
+        during a span of 5 years\n\n The amount is utilized under different heads specified by the UGC\n\n Under this Scheme all laboratories upgraded with new Instruments, so that the teaching
+        and learning level is improved a lot.  Amount utilized for research so that, our staff have published number of papers in international and national level and also attended
+        international/national level conferences/workshops/seminars and presented the papers.\n\n Number of extension activities like popularization of basic science, health awareness programmes
+        and social activities conducted in the rural village around Bagalkot\n\n So the CPE status helped in the overall development college to became imparting quality education in this region.\n\n
+        Advisory committee constituted by UGC Visited the college and appreciated the utilization of UGC phase 1 fund properly.\n\n In 2018, CPE continued phase2 and sanctioned Amount
+        Rs 1.2Crore.\n
+    </string>
+    <string name="wepc">College has got very active Ladies association and women empowerment cell. The cell initially started in the year 1981 as “Ladies Association” to encourage
+        and provide a platform to girl students. Later on in the year 1997, it has been converted in to “Ladies Association and Women Empowerment Cell (WEC)” to educate and empower the girl
+        students and women in all type of family and social welfare reforms. \n\nThe WEC of the college conducts a number of programs to create awareness about various aspects amongst girl
+        students viz health and hygiene every year and organizes programs like counseling the deprived women, Nirmal Yojana Abhiyaana etc in the college as well as in nearby villages in
+        collaboration with the  Rural Development Foundation (RDF) of B. V. V. Sangha, Bagalkot. The cell also organizes health checkup camps both in the college and nearby villages. The cell
+        creates awareness about self defense, legal rights and preventive methods on suicide and stress management. WEC organizes street dramas by the girl students on HIV AIDS and women
+        empowerment. The cell organizes training programs to girl students regarding paper bag making, art of counseling, art of development in craft making, fruit and milk processing products
+        and marketing. The cell encourages to participate in art exhibition organized by various organization like RDF and Janashikshana Samsthe of  Bagalkot. The cell organizes various
+        competitions separately for girl students as well as lady faculty of the college and celebrates International Women’s Day in the college every year enthusiastically.\n
+    </string>
+    <string name="sports">\n\nSports and cultural activities have been inaugurated on 28-7-2018 by Shri. R.S. Savalagimath Honarable member of B.V.V. Sangha. Dr. S.R .Kandagal Principal of the
+        college presided over the function as every year, students have participated in various sports and many won the university blue ships. They have also participated in the inter-university
+        levels sports, our boys and girls have won the second and third prize in the men and women table tennis (Single) tournament of Rani Channamma University held at Mirji College, Belagavi.
+        Chandrakala Metri has been selected for university chess team with first rank. List of students selected for university is given below.\n
+    </string>
+    <string name="ncc">
+        \n\n\nNCC aims to groom students into models of discipline and develops in them character, leadership, a secular outlook and the spirit of selfless service to the nation. The National
+        Cadet Corps (NCC) is a youth development movement. It has enormous potential for nation building. The NCC provides opportunities to the youth of the country for their all-round
+        development with a sense of Duty and Discipline, Commitment, Dedication, and Moral Values so that they become able leaders and useful citizens. The NCC provides exposure to the cadets
+        in a wide range of activities, with a distinct emphasis on Social Services, Discipline and Adventure Training. It has emerged as the biggest uniformed youth organization of the country
+        symbolizing its motto Unity and Discipline. The NCC unit of Basaveshwar Science College, functioning since 1967, our NCC Army Wing is a unit 37th Karnataka Battalion. The large NCC unit
+        of the college, numbering 104 cadets presently SD-67 and SW-37 and parade practice is held every weekend in the college quadrangle. Our cadets excel in complex drill formations.
+        Inculcating a sense of duty, the spirit of discipline, affection to the fellow beings and a spirit of service to the nation.\n
+    </string>
+    <string name="nss1">
+        \n\nNational Service Scheme popularly known as NSS was launched in Mahatma Gandhi Centenary year 1969 and aimed to developing student’s personality through community service. National
+        Service Scheme (NSS) is a permanent youth Program under the Ministry of Youth Affairs and Sports, Government of India and funded by Government of Karnataka.\n
+    </string>
+    <string name="nss2">
+        \n\n*Understand the community in which they work.\n\n
+        *Understand themselves in relation to their community.\n\n
+        *Identify the needs and problems of the community and involve them in problem solving process.\n\n
+        *Develop among themselves a sense of social and civic responsibility\n\n
+        *Utilize their knowledge in finding practical solution to individual and community problems.\n\n
+        *Develop competence required for group-living and sharing of responsibilities.\n\n
+        *Gain skills in mobilizing community participation.\n\n
+        *Acquire leadership qualities and democratic attitude.\n\n
+        *Develop capacity to meet emergencies and natural disasters.\n\n
+        *Practice national integration and social harmony.\n\n
+    </string>
+    <string name="nss3">
+        \n\nThe motto or watchword of the NSS is “Not me but you”. It underlines that the welfare of an individual is ultimately dependent on the welfare of society on the whole. This expresses
+        the essence of democratic living and upholds the need of selfless service and appreciation of the other man’s point of view and also consideration for fellow human beings.\n
+    </string>
+    <string name="nss4">
+        \n\nThe NSS symbol is embossed on the NSS badge. The NSS volunteers wear it while undertaking any program or community service. The Konark Wheel in the symbol has eight
+        bars, which represent the 24 hours of the day. Hence, the badge reminds the wearer to be in readiness for the service of the Nation round the clock i.e. for 24 hours. The Red Color in
+        the badge indicates that the NSS volunteers are full of young blood i.e. lively, active, energetic and full of high spirit. The Navy Blue Colour indicates the cosmos of which the NSS is
+        a tiny part, ready to contribute its share for the welfare of the mankind.\n\nNSS DAY: NSS was formally launched on 24th September 1969, the birth Centenary year of Mahatma Gandhiji
+        (Father of Nation). Therefore, 24 September is celebrated every year as NSS Day with appropriate program and activities\n
+    </string>
+    <string
+        name="sa1">\n\nScience Association is a front for the students where they are exposed to the scientific world and ideas which they don’t get enough from academic syllabus. Science
+        association aims to provide more scientific attitude by organizing guest lectures, quiz competitions, poster and paper presentations on different fields of science.\n
+    </string>
+    <string name="sa2">
+        \n\nSri. S. M. Gaonvkar Chairman\n
+        Associate Professor\n\n
+        Dr. M. S. Bisnal\n
+        Dr. M. B. Patil\n
+        Mr. Ramesh Anawal\n
+        Dr. Smt. Sumangala Dinni\n
+        Miss. Sushma Nandawadagi\n
+    </string>
+    <string name="sa3">
+        \n\n*To Inculcate Scientific Temper among students.\n\n
+        *To Spread recent scientific development.\n\n
+        *Talk Shows on current scientific events.\n\n
+        *To Develop Scientifically Literate Human Resource.\n\n
+        *To encourage, motivate and equip the students in applications of Science and its interface with society.\n\n
+    </string>
+    <string name="ca1">
+        \n\nThe importance of social and cultural activities is preparing students for real life and strengthening their personal skills. Social/cultural activities not only help students to
+        identify themselves with the university, but also assist students to develop themselves in a desired field and also improve skills such as organizational, presentation, leadership and
+        interpersonal communication. \nTo give all students the opportunity to be involved in culturally enriching activities.\n To give those students with special talents a chance to extend
+        themselves and to grow in their area of expertise.\n To expand our students’ appreciation of cultural activities.\n
+    </string>
+    <string name="ca2">
+        \n\nSmt. S.S. Karishankari Chairperson\n\n
+        Sri. M. M. Attar\n
+        Smt. NainaKalyanshetti\n
+        Smt. Mahananda Math\n
+        Mr. Srikant Badiger\n
+        Mr. Laxman Guddad\n
+        Miss. Reshma Pawar\n
+        Miss. Tulasi Chavan\n
+        Smt. Nirmal Telakar\n
+        Miss.S.S. Puranik\n
+    </string>
+    <string name="cg1">
+        \n\nThe Placement Cell of Basaveshwar Science College aims at making available quality placement opportunities for the students of the college. Placement Cell started functioning with a
+        very clear objective of ensuring a higher placement record and a better reach to the students of the college. Also, it helps for improving employability value addition skills need to be
+        imparted. As a result of this training cost and duration of the students joining industry can be reduced, this ensures the students to participate in internships. Considering above agenda
+        more focus will be on internships. It acts as an interface between the students of the college and various companies that come for recruitment. With relentless support from Principal,
+        Staffs and students, the Cell has been growing progressively and it is striving to archive the ultimate goal of 100% placement for the students.\n
+    </string>
+    <string name="cg2">
+        \n\nSri. K. B. Naglikar\n
+        Sri. M. M. Attar\n
+        Anand Teli\n
+        MouneshKammar\n
+        Srikant Bilagi\n
+        AchutKakhandaki\n
+        PrashanthKamane\n
+        Sameer Yalagi\n
+    </string>
+    <string name="nc1">
+        \n\n\nBVVS Nature Club was established by Sangha in association with Department of Life Sciences on 22nd Jan 2015. It was inaugurated by Nadoja Salumarada Timmakka.\n\n The purpose of nature
+        club is to motivate students to environmental issues and make them aware about grave situation of nature and means for its conservation.\n\n Under Nature club we regularly conduct
+        field visits, Bird watching programs etc.\n
+    </string>
+    <string name="alumni_about">
+        \nThe Alumni Association of the college is functioning efficiently and very supportively to the college activities. It was registered on 18-04-2009 and the registration number is
+        DEBGK/33/2009-10. Sri. G. N. Patil, Advocate was the founder president. Now the association is headed by Prof. C. S. Patil, former Principal of the college. Alumni Association endeavors
+        to create and maintain a life-long association between the College and its alumni. Periodic meetings are conducted. The Alumni Association has collected contribution from the members in
+        the form registration fee and donations. Separate bank account is maintained in this regard. The members of the association are representatives of diverse alumni and are from different
+        streams. Annual General Body meeting of the Alumni is organized every year. During this meet they share their experiences and knowledge and give suggestions for the overall devolvement
+        of the college. Alumni also share their accomplishments and their success stories. The Principal and dedicated members of the association work to connect alumni to students and organize
+        various activities for the stakeholders. Some of the former faculties of college are alumni of the college and they have contributed significantly for the development of the college.
+        Therefore, the institute has maintained a close and intimate bond with the alumni.\n\n
+        During last five years Rs 1,83,273/- was disbursed as a financial assistance to economically weak students. The alumni offer the assistance for the development of infrastructure in the
+        form of furniture, Computers, Laptops, water filter, etc. During last five years Rs 4,44,829/- spent for the development   of  infrastructure by the association. Rs 1,65,808 /- has been
+        spent as scholarship to encourage meritorious students in the last five years. Apart from this Alumni Association conducts various training programs to students. It also encourages
+        students who excel in various extracurricular activities by giving cash prizes. NCC and NSS students are also encouraged and motivated to perform well and exhibit their excellence.
+        Alumni also work for the welfare of teaching and non-teaching staff members. Recently Alumni Association has sponsored the office Automation software worth Rs. 55,000 and has organized
+        (Feb 2019) the five days training program in association with IQAC of the college to all office staff members. Association organizes felicitation to achievers (faculty as well as
+        students) during alumni general body meet. New members are always welcome to join the association.\n\n
+    </string>
+    <string name="alumni_members">
+        \n\nShri. G.N. Patil\n
+        Shri. M.S. Patil\n
+        Shri. P. S.Daddennavar\n
+        Shri. K. T. Tirakannaar\n
+        Shri. P. D. Jatti\n
+        Shri. K. B. Nagalikar\n
+        Shri. B. S. Navalagi\n
+        Shri. S. A. Niralagi\n
+        Shri. R.H. Kai\n
+        Shri. R. M. Saradagi\n
+        Smt. S. G. Hunashikai\n
+        Shri. V. Y. Vasanad\n
+        Shri. S. B. Nadavinamani\n
+        Smt. Rashmi Karchi\n
+    </string>
+
+</resources>

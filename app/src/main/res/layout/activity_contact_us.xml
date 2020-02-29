@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/cardview_shadow_end_color"
+    tools:context=".Contact_us">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/ccall"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_columnWeight="1"
+        android:layout_margin="12sp"
+        app:cardCornerRadius="12sp"
+        app:cardElevation="60sp">
+
+        <LinearLayout
+            android:layout_marginTop="15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="10sp"
+                android:src="@drawable/ic_phone"/>
+
+            <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Phone: 08354-220549"
+            android:textSize="20sp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="10dp"/>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_columnWeight="1"
+        android:layout_margin="12sp"
+        app:cardCornerRadius="12sp"
+        app:cardElevation="60sp">
+
+        <LinearLayout
+            android:layout_marginTop="15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="10sp"
+                android:src="@drawable/ic_fax"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Fax: 08354-220549"
+                android:textSize="20sp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"/>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cmail"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_columnWeight="1"
+        android:layout_margin="12sp"
+        app:cardCornerRadius="12sp"
+        app:cardElevation="60sp">
+
+        <LinearLayout
+            android:layout_marginTop="15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="10sp"
+                android:src="@drawable/ic_emai" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="E-mail:- bscbgk@yahoo.com"
+                android:textSize="20sp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"/>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cweb"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_columnWeight="1"
+        android:layout_margin="12sp"
+        app:cardCornerRadius="12sp"
+        app:cardElevation="60sp">
+
+        <LinearLayout
+            android:layout_marginTop="15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="10sp"
+                android:src="@drawable/ic_web" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Website: www.bscbgk.org"
+                android:textSize="20sp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"/>
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_columnWeight="1"
+        android:layout_margin="12sp"
+        app:cardCornerRadius="12sp"
+        app:cardElevation="60sp">
+
+        <LinearLayout
+            android:layout_marginTop="15sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginStart="10sp"
+                android:src="@drawable/ic_location"/>
+
+            <TextView
+                android:id="@+id/cloc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="location:Bvvs Campus,Bagalkot-587313, karnataka, India"
+                android:textSize="20sp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"/>
+
+        </LinearLayout>
+
+     </androidx.cardview.widget.CardView>
+
+    </LinearLayout>
+
+</ScrollView>

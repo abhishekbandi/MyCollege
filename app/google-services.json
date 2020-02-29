@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "356534637539",
+    "firebase_url": "https://project-ef922.firebaseio.com",
+    "project_id": "project-ef922",
+    "storage_bucket": "project-ef922.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356534637539:android:b035dde584dedcf2b0c6d6",
+        "android_client_info": {
+          "package_name": "avssa.compan.mycollege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356534637539-2ogukqj1ghrq3tphgun5k333mf0umu6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "avssa.compan.mycollege",
+            "certificate_hash": "a97f81c16cb32222def41c637f8227777fe3794b"
+          }
+        },
+        {
+          "client_id": "356534637539-fed1e969rpgrb91ib2i7b5aq0h667n0o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANj8Yk0eY3UW0fuiLtETKDml-uiNMvdro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356534637539-fed1e969rpgrb91ib2i7b5aq0h667n0o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

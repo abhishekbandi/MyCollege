@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="avssa.compan.mycollege">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Splashscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Developers"
+            android:label="Feedback to Developer"
+            android:parentActivityName=".MainActivity"/>
+        <activity
+            android:name=".Languages"
+            android:label="Languages"
+            android:parentActivityName=".Ug_departments" />
+        <activity
+            android:name=".Biotechnology"
+            android:label="Biotechnology"
+            android:parentActivityName=".Ug_departments" />
+        <activity
+            android:name=".Microbiology"
+            android:label="Microbiology"
+            android:parentActivityName=".Ug_departments" />
+        <activity
+            android:name=".Electronics"
+            android:label="Electronics"
+            android:parentActivityName=".Ug_departments" />
+        <activity
+            android:name=".Computer_science"
+            android:label="Computer Science"
+            android:parentActivityName=".Ug_departments" />
+        <activity
+            android:name=".Statistics"
+            android:label="Statistics"
+            android:parentActivityName=".Ug_departments" />
+        <activity
+            android:name=".Zoology"
+            android:label="Zoology"
+            android:parentActivityName=".Ug_departments" />
+        <activity
+            android:name=".Botany"
+            android:label="Botany"
+            android:parentActivityName=".Ug_departments" />
+        <activity
+            android:name=".Mathematics"
+            android:label="Mathematics"
+            android:parentActivityName=".Ug_departments" />
+        <activity
+            android:name=".Chemistry"
+            android:label="Chemistry"
+            android:parentActivityName=".Ug_departments" />
+        <activity
+            android:name=".Physics"
+            android:label="Physics"
+            android:parentActivityName=".Ug_departments" />
+        <activity
+            android:name=".Msc_physics"
+            android:label="Msc Physics"
+            android:parentActivityName=".Pg_departments" />
+        <activity
+            android:name=".Msc_Chemistry"
+            android:label="Msc Chemistery"
+            android:parentActivityName=".Pg_departments" />
+        <activity
+            android:name=".Msc_mathematics"
+            android:label="Msc Mathematics"
+            android:parentActivityName=".Pg_departments" />
+        <activity
+            android:name=".Msc_CS"
+            android:label="Msc Computer Science"
+            android:parentActivityName=".Pg_departments" />
+        <activity
+            android:name=".Natural_club"
+            android:label="BVVS Natural Club"
+            android:parentActivityName=".Gymkhana" />
+        <activity
+            android:name=".Ug_departments"
+            android:label="UG Departments"
+            android:parentActivityName=".Department" />
+        <activity
+            android:name=".Pg_departments"
+            android:label="PG Departments"
+            android:parentActivityName=".Department" />
+        <activity
+            android:name=".Logout"
+            android:label="Logout"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Bsc_Zoo_optional"
+            android:label="Bsc Syllabus"
+            android:parentActivityName=".Bsc" />
+        <activity
+            android:name=".Bsc_IC"
+            android:label="Bsc Syllabus"
+            android:parentActivityName=".Bsc" />
+        <activity
+            android:name=".Bsc_stat_optional"
+            android:label="Bsc Syllabus"
+            android:parentActivityName=".Bsc" />
+        <activity
+            android:name=".Bsc_Dpc"
+            android:label="Bsc Syllabus"
+            android:parentActivityName=".Bsc" />
+        <activity
+            android:name=".Bsc_kannada"
+            android:label="Bsc Syllabus"
+            android:parentActivityName=".Bsc" />
+        <activity
+            android:name=".Bsc_computer_science"
+            android:label="Bsc Syllabus"
+            android:parentActivityName=".Bsc" />
+        <activity
+            android:name=".Bsc_sugar_science"
+            android:label="Bsc Syllabus"
+            android:parentActivityName=".Bsc" />
+        <activity
+            android:name=".Bsc_Statistics"
+            android:label="Bsc Syllabus"
+            android:parentActivityName=".Bsc" />
+        <activity
+            android:name=".Bsc_sem6"
+            android:label="Bsc 6th Sem"
+            android:parentActivityName=".Bsc" />
+        <activity
+            android:name=".Bsc_sem5"
+            android:label="Bsc 5th Sem"
+            android:parentActivityName=".Bsc" />
+        <activity
+            android:name=".Bsc_sem4"
+            android:label="Bsc 4th Sem"
+            android:parentActivityName=".Bsc" />
+        <activity
+            android:name=".Bsc_sem3"
+            android:label="Bsc 3th Sem"
+            android:parentActivityName=".Bsc" />
+        <activity
+            android:name=".Bsc_sem2"
+            android:label="Bsc 2th Sem"
+            android:parentActivityName=".Bsc" />
+        <activity
+            android:name=".Bsc_sem1"
+            android:label="Bsc 1th Sem"
+            android:parentActivityName=".Bsc" />
+        <activity
+            android:name=".Bca_sem6"
+            android:label="BCA 6th Sem"
+            android:parentActivityName=".Bca" />
+        <activity
+            android:name=".Bca_sem5"
+            android:label="BCA 5th Sem"
+            android:parentActivityName=".Bca" />
+        <activity
+            android:name=".Bca_sem4"
+            android:label="BCA 4th Sem"
+            android:parentActivityName=".Bca" />
+        <activity
+            android:name=".Bca_sem3"
+            android:label="BCA 3th Sem"
+            android:parentActivityName=".Bca" />
+        <activity
+            android:name=".Bca_sem2"
+            android:label="BCA 2th Sem"
+            android:parentActivityName=".Bca" />
+        <activity
+            android:name=".Bca_sem1"
+            android:label="BCA 1th Sem"
+            android:parentActivityName=".Bca" />
+        <activity
+            android:name=".Bsc"
+            android:label="Bsc"
+            android:parentActivityName=".Syllabus" />
+        <activity
+            android:name=".Bca"
+            android:label="BCA"
+            android:parentActivityName=".Syllabus" />
+        <activity
+            android:name=".Career_guidance"
+            android:label="Careeer Guidence"
+            android:parentActivityName=".Gymkhana" />
+        <activity
+            android:name=".Culttural_activities"
+            android:label="Culttural activities"
+            android:parentActivityName=".Gymkhana" />
+        <activity
+            android:name=".Science_association"
+            android:label="Science association"
+            android:parentActivityName=".Gymkhana" />
+        <activity
+            android:name=".NSS"
+            android:label="NSS"
+            android:parentActivityName=".Gymkhana" />
+        <activity
+            android:name=".NCC"
+            android:label="NCC"
+            android:parentActivityName=".Gymkhana" />
+        <activity
+            android:name=".Sports"
+            android:label="Sports"
+            android:parentActivityName=".Gymkhana" />
+        <activity
+            android:name=".Women_empovernment_cell"
+            android:label="Women Empovernment Cell"
+            android:parentActivityName=".Gymkhana" />
+        <activity
+            android:name=".CPE"
+            android:label="CPE"
+            android:parentActivityName=".IQAC" />
+        <activity
+            android:name=".Iqac_members"
+            android:label="Iqac Members"
+            android:parentActivityName=".IQAC" />
+        <activity
+            android:name=".Principal_letter"
+            android:label="Principal Letter"
+            android:parentActivityName=".IQAC" />
+        <activity
+            android:name=".Iqac_message"
+            android:label="IQAC Message"
+            android:parentActivityName=".IQAC" />
+        <activity
+            android:name=".Attendance"
+            android:label="Attendence"
+            android:parentActivityName=".Academic" />
+        <activity
+            android:name=".Grievance_cell"
+            android:label="Grievance Cell"
+            android:parentActivityName=".Academic" />
+        <activity
+            android:name=".Anti_ragging"
+            android:label="Anti Ragging"
+            android:parentActivityName=".Academic" />
+        <activity
+            android:name=".Library"
+            android:label="Library"
+            android:parentActivityName=".Academic" />
+        <activity
+            android:name=".Remedical_committee"
+            android:label="Remedical Committee"
+            android:parentActivityName=".Academic" />
+        <activity
+            android:name=".Eximanition"
+            android:label="Eximanition"
+            android:parentActivityName=".Academic" />
+        <activity
+            android:name=".Certification_courses"
+            android:label="Certificaton Courses"
+            android:parentActivityName=".Courses" />
+        <activity
+            android:name=".Diploma"
+            android:label="Diploma"
+            android:parentActivityName=".Courses" />
+        <activity
+            android:name=".Ph_D_programs"
+            android:label="Ph.D Programs"
+            android:parentActivityName=".Courses" />
+        <activity
+            android:name=".Ug_programs"
+            android:label="UG Programs"
+            android:parentActivityName=".Courses" />
+        <activity
+            android:name=".Pg_programs"
+            android:label="PG Programs"
+            android:parentActivityName=".Courses" />
+        <activity
+            android:name=".About_college"
+            android:label="About College"
+            android:parentActivityName=".About" />
+        <activity
+            android:name=".About_bvvs"
+            android:label="About BVVS"
+            android:parentActivityName=".About" />
+        <activity
+            android:name=".Contact_us"
+            android:label="Contact Us"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Alumni"
+            android:label="Alumni"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Gymkhana"
+            android:label="Gymkhana"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".IQAC"
+            android:label="IQAC"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Academic"
+            android:label="Academic"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Department"
+            android:label="Department"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Syllabus"
+            android:label="Syllabus"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Courses"
+            android:label="Courses"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".About"
+            android:label="About"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Updates"
+            android:label="Updates"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".Phone_otp"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".Phonenumber"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".Login"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <service android:name=".MyFirebaseMessagingService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service android:name=".MyFirebaseInstanceIDService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+    </application>
+
+</manifest>

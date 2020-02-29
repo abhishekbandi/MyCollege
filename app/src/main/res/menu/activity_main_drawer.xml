@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="@string/menu_about" />
+        <item
+            android:id="@+id/nav_syllabus"
+            android:icon="@drawable/ic_syllabusb"
+            android:title="@string/menu_syllabus" />
+        <item
+            android:id="@+id/nav_courses"
+            android:icon="@drawable/ic_course"
+            android:title="@string/menu_courses" />
+        <item
+            android:id="@+id/nav_department"
+            android:icon="@drawable/ic_department"
+            android:title="@string/menu_department" />
+        <item
+            android:id="@+id/nav_academic"
+            android:icon="@drawable/ic_academic"
+            android:title="@string/menu_academic" />
+
+        <item
+            android:id="@+id/nav_iqac"
+            android:icon="@drawable/ic_iqac"
+            android:title="@string/menu_iqac" />
+        <item
+            android:id="@+id/nav_gymkhana"
+            android:icon="@drawable/ic_gymkhana"
+            android:title="@string/menu_gymkhana" />
+        <item
+            android:id="@+id/nav_alumni"
+            android:icon="@drawable/ic_alumni"
+            android:title="@string/menu_alumni" />
+
+
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_send"
+                android:title="@string/menu_send" />
+
+            <item
+                android:id="@+id/nav_contact_us"
+                android:icon="@drawable/ic_contact_us"
+                android:title="@string/menu_contact_us" />
+
+
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_logout"
+                android:title="@string/menu_logout" />
+
+
+        </menu>
+    </item>
+
+    <item android:title="Developer Contact">
+        <menu>
+
+            <item
+                android:id="@+id/nav_developers"
+                android:icon="@drawable/ic_developers"
+                android:title="@string/menu_developers" />
+        </menu>
+    </item>
+
+
+
+
+
+</menu>
